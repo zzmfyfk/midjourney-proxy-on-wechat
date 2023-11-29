@@ -6,23 +6,26 @@
     "discordapp_proxy": "",
     "daily_limit": 3,
     "imagine_prefix": [
-        "/i",
-        "/mj"
+        "画",
+        "生成",
+        "创作",
+        "设计一",
     ],
     "fetch_prefix": [
         "/f"
     ],
     "up_prefix": [
-        "/u"
+        "放大"
     ],
     "pad_prefix": [
-        "/p"
+        "垫图"
     ],
     "blend_prefix": [
-        "/b"
+        "融图",
+        "混图"
     ],
     "describe_prefix": [
-        "/d"
+        "描述"
     ],
     "queue_prefix": [
         "/q"
@@ -31,6 +34,7 @@
         "/e"
     ],
     "reroll_prefix": [
-        "/r"
+        "重生成"
+        "重画"
     ]
 }
