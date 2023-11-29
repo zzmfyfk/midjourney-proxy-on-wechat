@@ -1,0 +1,41 @@
+{
+    "mj_url": "",
+    "mj_api_secret": "",
+    "mj_tip": true,
+    "mj_admin_password": "",
+    "discordapp_proxy": "",
+    "daily_limit": 3,
+    "imagine_prefix": [
+        "画",
+        "生成",
+        "创作",
+        "设计一",
+    ],
+    "fetch_prefix": [
+        "/f"
+    ],
+    "up_prefix": [
+        "放大"
+    ],
+    "pad_prefix": [
+        "垫图"
+    ],
+    "blend_prefix": [
+        "融图",
+        "混图"
+    ],
+    "describe_prefix": [
+        "描述"
+    ],
+    "queue_prefix": [
+        "/q"
+    ],
+    "end_prefix": [
+        "/e"
+    ],
+    "reroll_prefix": [
+        "重生成"
+        "重画"
+    ]
+    "mj_tip": false,
+}
